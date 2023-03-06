@@ -1,0 +1,21 @@
+.reg{
+    background-image: url(C:\Users\dell\Desktop\abhishek\react-app\src\component\img\rainbow.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-top: 40px;
+}
+#f8{
+    /* width: 420px; */
+    /* margin-left: 100px; */
+}
+/* #f8{
+    width: 420px; */
+    /* margin-left: 100px;
+} */
+#f2{
+    width: 200px;
+    margin-left: 20px;
+}
+#f1{
+    margin-left: 10px;
+}

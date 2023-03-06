@@ -1,0 +1,21 @@
+.nav-bar-link:hover{
+    color: blue;
+}
+.navbar li{
+    display: inline-block;
+    padding: 10px 5px;
+    
+}
+.nav-bar-link{
+    color: black;
+    text-decoration:none ;
+}
+/* .nav-bar-link.active{
+    color:darkred
+} */
+.navbar{
+    height: 60px;
+}
+.nav-item{
+    margin-top: 8px;
+}
